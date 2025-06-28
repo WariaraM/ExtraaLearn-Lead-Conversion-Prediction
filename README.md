@@ -52,7 +52,8 @@ This project analyzes lead data for ExtraaLearn, an EdTech startup, to identify 
 ## 🔍 Full Analysis
 
 For complete data exploration, feature engineering, and model training, see:  
-📎 [`ExtraaLearn-Lead-Conversion-Analysis.ipynb`](ExtraaLearn-Lead-Conversion-Analysis.ipynb)
+[ExtraaLearn-Lead-Conversion-Prediction.ipynb](ExtraaLearn-Lead-Conversion-Prediction.ipynb)
+
 
 ---
 
